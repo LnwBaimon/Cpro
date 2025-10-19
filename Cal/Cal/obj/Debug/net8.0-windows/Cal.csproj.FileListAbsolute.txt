@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Cal\Cal\bin\Debug\net8.0-windows\Cal.exe
+C:\Users\User\source\repos\Cal\Cal\bin\Debug\net8.0-windows\Cal.deps.json
+C:\Users\User\source\repos\Cal\Cal\bin\Debug\net8.0-windows\Cal.runtimeconfig.json
+C:\Users\User\source\repos\Cal\Cal\bin\Debug\net8.0-windows\Cal.dll
+C:\Users\User\source\repos\Cal\Cal\bin\Debug\net8.0-windows\Cal.pdb
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.Calculator.resources
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.AssemblyInfo.cs
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.dll
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\refint\Cal.dll
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.pdb
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\Cal.genruntimeconfig.cache
+C:\Users\User\source\repos\Cal\Cal\obj\Debug\net8.0-windows\ref\Cal.dll
