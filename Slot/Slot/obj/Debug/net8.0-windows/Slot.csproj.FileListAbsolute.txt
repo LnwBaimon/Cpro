@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Slot\Slot\bin\Debug\net8.0-windows\Slot.exe
+C:\Users\User\source\repos\Slot\Slot\bin\Debug\net8.0-windows\Slot.deps.json
+C:\Users\User\source\repos\Slot\Slot\bin\Debug\net8.0-windows\Slot.runtimeconfig.json
+C:\Users\User\source\repos\Slot\Slot\bin\Debug\net8.0-windows\Slot.dll
+C:\Users\User\source\repos\Slot\Slot\bin\Debug\net8.0-windows\Slot.pdb
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.Form1.resources
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.AssemblyInfo.cs
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.dll
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\refint\Slot.dll
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.pdb
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.genruntimeconfig.cache
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\ref\Slot.dll
+C:\Users\User\source\repos\Slot\Slot\obj\Debug\net8.0-windows\Slot.Properties.Resources.resources
