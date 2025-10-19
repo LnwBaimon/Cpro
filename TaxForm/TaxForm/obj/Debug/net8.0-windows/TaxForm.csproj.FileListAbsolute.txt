@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TaxForm\TaxForm\bin\Debug\net8.0-windows\TaxForm.exe
+C:\Users\User\source\repos\TaxForm\TaxForm\bin\Debug\net8.0-windows\TaxForm.deps.json
+C:\Users\User\source\repos\TaxForm\TaxForm\bin\Debug\net8.0-windows\TaxForm.runtimeconfig.json
+C:\Users\User\source\repos\TaxForm\TaxForm\bin\Debug\net8.0-windows\TaxForm.dll
+C:\Users\User\source\repos\TaxForm\TaxForm\bin\Debug\net8.0-windows\TaxForm.pdb
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.Properties.Resources.resources
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.AssemblyInfo.cs
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.dll
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\refint\TaxForm.dll
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.pdb
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.genruntimeconfig.cache
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\ref\TaxForm.dll
+C:\Users\User\source\repos\TaxForm\TaxForm\obj\Debug\net8.0-windows\TaxForm.a.resources
